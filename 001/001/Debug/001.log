@@ -1,0 +1,6 @@
+﻿  Source_001.cpp
+c:\users\acer\documents\__itstep\oop\001\001\001\source_001.cpp(35): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\acer\documents\__itstep\oop\001\001\001\source_001.cpp(38): error C2084: function 'void Gamer::UdpadeAvgFeeds(void)' already has a body
+  c:\users\acer\documents\__itstep\oop\001\001\001\source_001.cpp(12): note: see previous definition of 'UdpadeAvgFeeds'
+c:\users\acer\documents\__itstep\oop\001\001\001\source_001.cpp(39): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\acer\documents\__itstep\oop\001\001\001\source_001.cpp(58): error C2661: 'Gamer::Gamer': no overloaded function takes 2 arguments
